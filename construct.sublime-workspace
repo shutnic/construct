@@ -1,0 +1,490 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text_color_selector"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"dr",
+				"draw"
+			],
+			[
+				"rec",
+				"rectTop"
+			],
+			[
+				"re",
+				"rectBack"
+			],
+			[
+				"rect",
+				"rectBack"
+			],
+			[
+				"x0",
+				"x0-anchorX"
+			],
+			[
+				"x",
+				"x0"
+			],
+			[
+				"g",
+				"getY"
+			],
+			[
+				"get",
+				"getX"
+			],
+			[
+				"a",
+				"anchorY"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "construct.js",
+			"settings":
+			{
+				"buffer_size": 7586,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "construct_lib.js",
+			"settings":
+			{
+				"buffer_size": 5718,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1880,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 1269,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/programming/OpenServer/domains/callhunter.ru/index.html",
+		"/C/OpenServer/domains/constructor.ru/getImages.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/assets/app/js/main.js",
+		"/C/OpenServer/domains/myshop.ru/shop/application/web/assets/aca9668f/js/main.js",
+		"/C/OpenServer/domains/myshop.ru/shop/application/web/assets/836a648a/js/main.js",
+		"/C/OpenServer/domains/myshop.ru/shop/application/config/common-local.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/shop/views/backend-sticker-colors/edit.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/components/Controller.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/properties/PropertiesWidget.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/shop/controllers/BackendProductController.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/shop/controllers/BackendStickerColorsController.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/web/theme/module/widgets/ColorBoxWidget/ColorBoxWidget.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/web/theme/views/modules/shop/product/show - копия.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/shop/views/backend-category/category-form.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/vendor/kartik-v/yii2-widget-activeform/ActiveField.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/backend/views/spam-checker/index.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/extensions/DefaultTheme/widgets/CategoriesList/views/categories-list.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/web/theme/.gitignore",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/config/views/backend/index.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/shop/views/product/list.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/extensions/DefaultTheme/widgets/CategoriesList/Widget.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/vendor/yiisoft/yii2/widgets/ActiveField.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/vendor/yiisoft/yii2/helpers/BaseHtml.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/shop/views/backend-discount/index.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/extensions/DefaultTheme/views/configurable/_config.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/config/backend/ConfigController.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/config/models/Configurable.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/config/helpers/ConfigurationUpdater.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/config/configurables-state/DefaultTheme.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/config/web-configurables.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/config/behaviors/ConfigurableModuleBehavior.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/config/models/BaseConfigurationModel.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/shop/backend/FilterSetsController.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/.gitignore",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/shop/controllers/ProductController.php",
+		"/C/OpenServer/domains/myshop.ru/shop/db/3.sql",
+		"/C/OpenServer/domains/myshop.ru/shop/application/models/Property.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/shop/controllers/BackendPrefilteredPagesController.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/shop/views/backend-prefiltered-pages/prefiltered-page-form.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/shop/views/product/show.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/extensions/DefaultTheme/widgets/CategoriesList/ConfigurationModel.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/config/web.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/web/theme/module/config/web.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/shop/views/product/item-row.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/shop/views/product/item.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/web/theme/module/ThemeModule.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/web/theme/module/ShopModule.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/web/theme/views/modules/basic/layouts/main.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/extensions/DefaultTheme/widgets/OneRowHeaderWithCart/views/header.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/views/layouts/main.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/extensions/DefaultTheme/backend/ConfigurationController.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/extensions/DefaultTheme/views/backend-configuration/index.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/web/theme/modules/shop/ShopModule.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/shop/ShopModule.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/config/configurables-state/shop.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/extensions/DefaultTheme/widgets/Slider/Widget.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/extensions/DefaultTheme/widgets/ContentBlock/Widget.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/config/kv-configurables.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/config/db-local.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/config/db.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/config/console-configurables.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/config/params.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/config/common.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/extensions/DefaultTheme/Module.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/modules/image/widgets/ImageDropzone.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/web/index.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/extensions/DefaultTheme/models/ThemeWidgets.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/vendor/league/flysystem/src/Adapter/Local.php",
+		"/C/OpenServer/domains/dotplant2/application/vendor/league/flysystem/src/Filesystem.php",
+		"/C/OpenServer/domains/dotplant2/application/vendor/league/flysystem/src/Adapter/AbstractAdapter.php",
+		"/C/OpenServer/domains/dotplant2/application/vendor/league/flysystem/src/Adapter/Local.php",
+		"/C/OpenServer/domains/dotplant2/application/modules/image/widgets/ImageDropzone.php",
+		"/C/OpenServer/domains/dotplant2/application/config/configurables-state/image.php",
+		"/C/OpenServer/domains/dotplant2/application/vendor/creocoder/yii2-flysystem/src/LocalFilesystem.php",
+		"/C/OpenServer/domains/dotplant2/application/vendor/league/flysystem/src/AdapterInterface.php",
+		"/C/OpenServer/domains/dotplant2/application/vendor/bower/dropzone/dist/readme.md",
+		"/C/OpenServer/domains/myshop.ru/shop/application/vendor/.gitignore",
+		"/C/OpenServer/domains/myshop.ru/shop/application/vendor/autoload.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/backend/controllers/ApiController.php",
+		"/C/OpenServer/domains/myshop.ru/shop/application/backend/clients/YandexWebmasterOAuth.php",
+		"/C/OpenServer/domains/dotplant2/application/composer.json",
+		"/C/OpenServer/domains/dotplant2_def/Personalization.md",
+		"/C/OpenServer/domains/dotplant2/application/models/SliderHandler.php",
+		"/C/OpenServer/domains/dotplant2/application/views/layouts/main.php",
+		"/C/OpenServer/domains/dotplant2/application/extensions/demo/migrations/demo-data.php",
+		"/C/OpenServer/domains/dotplant2/application/config/common-local.php",
+		"/C/OpenServer/domains/dotplant2/application/config/common.php",
+		"/C/OpenServer/domains/dotplant2/application/views/layouts/blocks/header.php",
+		"/C/OpenServer/domains/dotplant2/application/config/installer.php",
+		"/C/OpenServer/domains/dotplant2/application/config/db.php",
+		"/C/OpenServer/userdata/config/Nginx-1.9_vhost.conf",
+		"/C/Users/Sashqa/AppData/Roaming/Composer/composer.lock",
+		"/C/OpenServer/domains/dotplant2/application/config/web-configurables.php",
+		"/C/OpenServer/domains/dotplant2/application/views/default/index.php",
+		"/C/OpenServer/domains/dotplant2/application/config/db-local.php",
+		"/C/OpenServer/domains/dotplant2/application/config/console.php",
+		"/C/OpenServer/domains/dotplant2/application/web/installer.php",
+		"/C/WebServers/usr/local/php5/php.ini",
+		"/C/WebServers/home/loungepuf.ru/www/wp-content/plugins/robokassa-for-woocommerce/wc-robokassa.php",
+		"/C/Users/Sashqa/AppData/Roaming/Composer/composer.json",
+		"/C/WebServers/home/lpuf.ru/wp-config.php",
+		"/C/WebServers/home/lpuf.ru/wp-settings.php",
+		"/C/WebServers/home/localhost/www/Tools/phpmyadmin/libraries/config.default.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"width",
+			"cons",
+			"addToCartClicked",
+			"addToCart",
+			"addToCartCli",
+			"addToCart",
+			"/shop/cart/add",
+			"add-to-cart",
+			"app\\models",
+			"Currency",
+			"makeSlug",
+			"function radioLIST",
+			"function renderTagAttributes",
+			"renderTagAttributes",
+			"function input",
+			"function radio",
+			"radio",
+			"function radioList",
+			"activeRadioList",
+			"radioList",
+			"TYPE_RADIO",
+			"function getToggleFieldList",
+			"агтсешщт getToggleFieldList",
+			"getToggleFieldList",
+			"radioButtonGroup",
+			"inputType",
+			"items",
+			"getToggleFieldList",
+			"radioButtonGroup",
+			"ButtonGroup",
+			"ColorInput",
+			"#27ae60",
+			"property'",
+			"product",
+			"modules",
+			"add-to-cart",
+			"cache",
+			"exit()",
+			"exit",
+			"getSize",
+			"SplFileInfo",
+			"Local",
+			"setPathPrefix",
+			"function applyPathPrefix",
+			"applyPathPrefix",
+			"getMetadata",
+			"getSize",
+			"addFiles",
+			"getMetadata",
+			"getSize",
+			"SplFileInfo",
+			"isReadable",
+			"getType",
+			"mapFileInfo",
+			"getSize",
+			"bower",
+			"server",
+			"server ",
+			"31c56d6046cb340e13f4112299cb00508c9505b9",
+			"31c56d6046cb340e13f4112299cb00508c9505b9 ",
+			"31c56d6046cb340e13f4112299cb00508c9505b9",
+			"post_max_size ",
+			"8M",
+			"upload_max_filesize",
+			"post_max_size",
+			"max",
+			"2048",
+			"2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "construct.js",
+					"settings":
+					{
+						"buffer_size": 7586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6091,
+								6091
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3903.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "construct_lib.js",
+					"settings":
+					{
+						"buffer_size": 5718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5276,
+								5276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2072.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1880
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 1269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1266,
+								1266
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 728.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true
+}

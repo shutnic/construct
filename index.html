@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="konva.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	
+	
+	
+	<script src="construct_lib.js"></script>   
+	<script src="construct.js"></script>   
+	<link rel="stylesheet" type="text/css" href="style.css" media="screen">
+	<meta charset="utf-8">
+    <title></title>
+</head>
+<body>
+<div id="container" class="container" tabindex="1"></div>
+<div id="controls">
+	<input id="color_menu" type="checkbox" class="checkbox_menu"/>
+	<label for="color_menu" class="but_menu">Select color</label>
+	<div class="el_color_menu1">
+		<ul>
+		<li>Red: <input id="red" type="range" min="0" max="256" step="1" value="150"></li>
+		<li>Green: <input id="green" type="range" min="0" max="256" step="1" value="150"></li>
+		<li>Blue: <input id="blue" type="range" min="0" max="256" step="1" value="150"></li>
+		<li>Alpha: <input id="alpha" type="range" min="0" max="1" step="0.05" value="0.5"></li>
+		</ul>
+
+		<div id="fb_color_selector"></div>
+	</div>
+	
+	<input id="text_menu" type="checkbox" class="checkbox_menu"/>
+	<label for="text_menu" class="but_menu">Add text</label>
+	<div class="el_text_menu">
+		<input id="text" type="text" size="20">	
+		<select id="text_font_size"></select>	
+		<select id="text_font_family"></select>
+		<input id="text_rotate" type="text" size="3" value="0">	
+		<button id="add-text">Add Text</button>
+		<div id="text_color_selector"></div>
+	</div>
+	
+	<input id="img_menu" type="checkbox" class="checkbox_menu"/>
+	<label for="img_menu" class="but_menu">Add image</label>
+	<div class="el_img_menu">
+		<div id="imglist" class="imglist"></div>
+	</div>
+	
+ </div>
+  
+
+<div id="slider" class="fb_slider">
+<img src="images/fb_top_slider.png" id="fb_slider_0">
+<img src="images/fb_back_slider.png" id="fb_slider_1">
+</div>
+
+<input id="deb" type="text" size="10">
+
+</body>
+</html>

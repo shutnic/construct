@@ -1,0 +1,87 @@
+body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #F0F0F0;
+        }
+.container{
+	background-color: white;
+	width:600px;
+	height:500px;
+	outline: none;
+}
+.selected{
+    border-style: solid;
+    border-color: red;
+}
+
+.fb_slider{
+	position: absolute;
+    top: 412px;
+    left: 290px;
+	cursor: pointer;
+}
+
+
+/* Controls menu*/
+#controls {
+      position: absolute;
+      top: 20px;
+      left: 20px; 
+      width: 200px;
+    }
+		
+.checkbox_menu, .el_color_menu, .el_text_menu, .el_img_menu{
+	display:none;
+}
+
+.but_menu{
+	cursor: pointer;
+    border: solid;
+    display: block;
+    padding: 12px;
+    border-color: #ADB3AE;	
+}
+
+#color_menu:checked ~ .el_color_menu {
+    display:block;
+}
+
+#text_menu:checked ~ .el_text_menu {
+    display:block;
+}
+
+#img_menu:checked ~ .el_img_menu {
+    display:block;
+}
+
+/* Image list*/
+
+.imglist{
+	width:190px;
+	height:200px;
+	border: solid;
+	border-color: #ADB3AE;	
+}
+
+.imglist img{
+    width:60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.text_color_box{
+    width: 20px;
+    height: 20px;
+    margin: 2px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.fb_color_box{
+    width: 30px;
+    height: 30px;
+    margin: 2px;
+    cursor: pointer;
+    border: solid 1px;
+}
